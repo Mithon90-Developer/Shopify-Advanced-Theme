@@ -9,13 +9,13 @@
  */
 {
   "sections": {
-    "main-page": {
-      "type": "page",
+    "main-faq": {
+      "type": "faq-template",
       "settings": {
       }
     }
   },
   "order": [
-    "main-page"
+    "main-faq"
   ]
 }
